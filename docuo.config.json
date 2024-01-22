@@ -11,13 +11,15 @@
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "My%20Site",
       "logo": "image/logo.png",
       "iconRedirectUrl": "https://www.spreading.ai",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "NavItem",
           "position": "left",
           "docsInstanceId": "default"
